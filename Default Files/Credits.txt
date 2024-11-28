@@ -1,16 +1,8 @@
-GodotOS was created by popcar2.
+GodotGameHub was created by Mahan Khalili.
 
-Contact me: popcar@protonmail.com
-
-I enjoy making creating games and toys.
-If you'd like to see more, please consider
-donating, even if it's only a few dollars:
-
-https://ko-fi.com/popcar2
+Contact me: Subject.Team.Contact@gmail.com
 
 --- Other credits ---
-* Default wallpaper was created by Haseeb Jamil
-  ( https://unsplash.com/photos/snow-capped-mountain-at-night-3s85IxVDyXE )
 * File icons are from FlatIcon.
 * Misc icons are from game-icons.
 

@@ -1,6 +1,6 @@
-Welcome to GodotOS!
+Welcome to GodotGameHub!
 
-GodotOS is a fake operating system where
+GodotGameHub is a game launcher where
 you can play games, manage folders,
 view images, and edit text files!
 

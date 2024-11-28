@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="GodotOS"
+config/name="GodotGameHub"
 run/main_scene="res://Scenes/Main/MainScene.tscn"
 config/use_custom_user_dir=true
 config/custom_user_dir_name="GodotOS"
@@ -29,6 +29,7 @@ NotificationManager="*res://Scenes/Autoloads/Notification Manager/notification_m
 CopyPasteManager="*res://Scenes/Autoloads/CopyPaste Manager/copy_paste_manager.tscn"
 GlobalValues="*res://Scenes/Autoloads/GlobalValues/global_values.tscn"
 DefaultValues="*res://Scenes/Autoloads/Default Values/default_values.tscn"
+SLib="*res://addons/SLib/SLib.gd"
 
 [debug]
 
@@ -36,7 +37,12 @@ gdscript/warnings/untyped_declaration=1
 
 [display]
 
+window/size/mode=3
 window/vsync/vsync_mode=0
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/GDScriptMacros/plugin.cfg", "res://addons/SLib/plugin.cfg")
 
 [file_customization]
 
